@@ -58,3 +58,16 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Using SQLite
+
+```yaml
+type: VideoExercise
+key: 28ef291b92
+xp: 50
+```
+
+`@projector_key`
+c14ed9e40546a58de7b612bd1f036696
